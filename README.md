@@ -1,4 +1,4 @@
-# HTTP Server by Node JS
+# HTTP Server made by Node JS
 How to setup the http?
 1. Install Node JS in https://nodejs.org/en/download
 2. And right click to open with the file ( http.js ) 
